@@ -1,5 +1,11 @@
-## Hi there 👋
-
+### Hi, I'm Adele!
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+💻 Studied [Computer Sciencel(https:/youtu.be/Dd_4zfmY-aA?si=3NnnJ-j51sZjohlv) at the University of Otago, New Zealand<br/>
+📸 Making videos about Computer Science, tech, and productivity on [Youtube](https://www.youtube.com/c/MagdelineHuang)<br/>
+🔮 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
+🐬 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Adele's_github stats](https://github-readme=stats.vercel.app/api?username=xso105&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/adeleaidin/github-readme-stats)
 <!--
 **adeleaidin/adeleaidin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
