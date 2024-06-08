@@ -1,6 +1,6 @@
 ### Hi, I'm Adele!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-💻 Studied [Computer Science](https:/youtu.be/Dd_4zfmY-aA?si=3NnnJ-j51sZjohlv) at the University of Otago, New Zealand<br/>
+💻 Studied [Computer Science](https:/youtu.be/Dd_4zfmY-aA?si=3NnnJ-j51sZjohlv) at the HSE University<br/>
 📸 Making videos about Computer Science, tech, and productivity on [Youtube](https://www.youtube.com/c/MagdelineHuang)<br/>
 🔮 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 🐬 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
