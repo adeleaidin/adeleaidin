@@ -10,8 +10,8 @@
 - ### Hi, I'm Adele!
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 💻 Studying Business Informatics at the HSE University<br/>
-- 🔮 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
-- 🐬 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+- 🔮 #learninginpublic in my <!--[digital garden](https://magdelinehuang.com/)<br/>-->
+- 🐬 Currently learning about data analytics and <!--[dataviz](https://pudding.cool/2018/08/pockets/)!<br/>-->
 - 🌱 I’m passionate about 
 - 📝 I’m aiming to write <!--**one article per week** starting from November 2023.-->
 - 🏆 I'm striving to increase my <!--[GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).-->
@@ -21,7 +21,7 @@
 
 ## 💡 A Quote:
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?theme=dracula&?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Custom Quote](https://github.com/adeleaidin/adeleaidin/blob/main/carbon-2.png?raw=true)
 
 ## 💻 My Tech Stack:
 
