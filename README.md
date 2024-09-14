@@ -1,5 +1,5 @@
 <div align="center">
-# 🌟 Hello World, I'm Adele! 🌟
+ 🌟 Hello World, I'm Adele! 🌟
   
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adeleaidin/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aidin.kyzy.adelya@gmail.com?subject=Hello%20Adele,%20From%20Github)
