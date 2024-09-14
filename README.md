@@ -21,6 +21,8 @@
 ## 💡 Quote of the Day:
 
 > **"Discipline is the strongest form of self-love."**   – Adele Aidin
+>
+
 
 
 ## 💻 My Skills
