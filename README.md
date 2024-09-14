@@ -1,6 +1,6 @@
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeleaidin/) &nbsp;
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidin.kyzy.adelya@gmail.com?subject=Hello%20Adele,%20From%20Github)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adeleaidin/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aidin.kyzy.adelya@gmail.com?subject=Hello%20Adele,%20From%20Github)
   
   [![Hello World, I'm Adele!](assets/header.gif)](https://github.com/adeleaidin)
 </div>
