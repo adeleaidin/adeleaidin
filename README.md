@@ -13,17 +13,14 @@
 
 - 👩🏻‍💻 **Software Engineer** sharing my journey and learnings in tech.
 - 🎓 Studying **Business Informatics** at HSE University.
-- 🌍 Passionate about **Blockchain**, **Web3**, and **Open Source** technologies.
-
+<!-- 🌍 Passionate about **Blockchain**, **Web3**, and **Open Source** technologies. -->
 ---
 
 <div align="center">
 
 ## 💡 Quote of the Day:
 
-> **"Discipline is the strongest form of self-love."**
->
-> – Adele Aidin
+> **"Discipline is the strongest form of self-love."**   – Adele Aidin
 
 
 ## 💻 My Skills
