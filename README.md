@@ -29,43 +29,42 @@
 ## 💻 My Skills
 
 ### Programming Languages & Frameworks
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092D1F?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![DRF](https://img.shields.io/badge/DRF-1C1C1C?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Databases & Data Tools
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![SPSS](https://img.shields.io/badge/SPSS-FF6F00?style=for-the-badge)](https://www.ibm.com/products/spss)
+[![SPSS](https://img.shields.io/badge/SPSS-FF6F00?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/spss)
 [![DBeaver](https://img.shields.io/badge/DBeaver-3776AB?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
-[![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 ### Data Science & Analysis
-[![Numpy](https://skillicons.dev/icons?i=numpy)](https://numpy.org/)
-[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
-[![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/)
-[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
-[![SciPy](https://skillicons.dev/icons?i=scipy)](https://scipy.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white&logo=python)](https://seaborn.pydata.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-3776AB?style=for-the-badge&logo=jupyter&logoColor=orange)](https://jupyter.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8ACDEA?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ### Development, API & Cloud Tools
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![Swagger](https://skillicons.dev/icons?i=swagger)](https://swagger.io/)
-[![Cloudinary](https://skillicons.dev/icons?i=cloudinary)](https://cloudinary.com/)
-[![DigitalOcean](https://skillicons.dev/icons?i=digitalocean)](https://www.digitalocean.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-0085FF?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ### Design & Collaboration
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
-[![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
-[![Miro](https://img.shields.io/badge/Miro-FFC300?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)
-[![Canvas](https://img.shields.io/badge/Canvas-1DA1F2?style=for-the-badge&logoColor=white&logo=canvas)](https://canvas.instructure.com/)
-
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Miro](https://img.shields.io/badge/Miro-1A1A1A?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)
+[![Canvas](https://img.shields.io/badge/Canvas-1DA1F2?style=for-the-badge&logo=canvas&logoColor=white)](https://canvas.instructure.com/)
 
 </div>
 
