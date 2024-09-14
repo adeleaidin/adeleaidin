@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Hello World, I'm Adele! 🌟
+#  Hello World, I'm Adele! 🌟
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adeleaidin/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aidin.kyzy.adelya@gmail.com?subject=Hello%20Adele,%20From%20Github) &nbsp;
@@ -28,40 +28,44 @@
 
 ## 💻 My Skills
 
-### Programming & Frameworks:
+### Programming Languages & Frameworks
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![DRF](https://img.shields.io/badge/DRF-1C1C1C?style=for-the-badge&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+### Databases & Data Tools
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![DRF](https://skillicons.dev/icons?i=django)](https://www.django-rest-framework.org/) <!-- Using Django icon for DRF -->
-[![Swagger](https://skillicons.dev/icons?i=swagger)](https://swagger.io/)
+[![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![SPSS](https://img.shields.io/badge/SPSS-FF6F00?style=for-the-badge)](https://www.ibm.com/products/spss)
+[![DBeaver](https://img.shields.io/badge/DBeaver-3776AB?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
+[![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
-### Cloud & Platforms:
-[![Cloudinary](https://skillicons.dev/icons?i=cloudinary)](https://cloudinary.com/)
-[![DigitalOcean](https://skillicons.dev/icons?i=digitalocean)](https://www.digitalocean.com/)
-
-### Data Science & Analysis:
+### Data Science & Analysis
 [![Numpy](https://skillicons.dev/icons?i=numpy)](https://numpy.org/)
 [![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
 [![Matplotlib](https://skillicons.dev/icons?i=matplotlib)](https://matplotlib.org/)
 [![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
 [![SciPy](https://skillicons.dev/icons?i=scipy)](https://scipy.org/)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white&logo=python)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-3776AB?style=for-the-badge&logo=jupyter&logoColor=orange)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white&logo=python)](https://seaborn.pydata.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-3776AB?style=for-the-badge&logo=jupyter&logoColor=orange)](https://jupyter.org/)
 
-### Development & Tools:
+### Development, API & Cloud Tools
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![DBeaver](https://img.shields.io/badge/DBeaver-3776AB?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
-[![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) <!-- MySQL icon used for SQL -->
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![SPSS](https://img.shields.io/badge/SPSS-FF6F00?style=for-the-badge)](https://www.ibm.com/products/spss-statistics)
-
-### Design & Collaboration:
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
-![Canvas](https://img.shields.io/badge/Canvas-1DA1F2?style=for-the-badge&logoColor=white&logo=canvas)
-[![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
+[![Swagger](https://skillicons.dev/icons?i=swagger)](https://swagger.io/)
+[![Cloudinary](https://skillicons.dev/icons?i=cloudinary)](https://cloudinary.com/)
+[![DigitalOcean](https://skillicons.dev/icons?i=digitalocean)](https://www.digitalocean.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+
+### Design & Collaboration
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+[![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
 [![Miro](https://img.shields.io/badge/Miro-FFC300?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)
+[![Canvas](https://img.shields.io/badge/Canvas-1DA1F2?style=for-the-badge&logoColor=white&logo=canvas)](https://canvas.instructure.com/)
+
 
 </div>
 
