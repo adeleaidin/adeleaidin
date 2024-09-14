@@ -10,12 +10,6 @@
 - ### Hi, I'm Adele!
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 💻 Studying Business Informatics at the HSE University<br/>
-- 🔮 #learninginpublic in my <!--[digital garden](https://magdelinehuang.com/)<br/>-->
-- 🐬 Currently learning about data analytics and <!--[dataviz](https://pudding.cool/2018/08/pockets/)!<br/>-->
-- 🌱 I’m passionate about 
-- 📝 I’m aiming to write <!--**one article per week** starting from November 2023.-->
-- 🏆 I'm striving to increase my <!--[GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).-->
-- ⚡ Fun fact: <!--I read books, play the piano, and sleep with my dog!-->
 
 <div align="center">
 
@@ -25,7 +19,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Svelte, Python, JavaScript, HTML, CSS, Solidity](https://skillicons.dev/icons?i=next,svelte,python,js,html,css,solidity)](https://skillicons.dev)
 
 <!--
 ## 📖 Read My Blogs:
