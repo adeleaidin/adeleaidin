@@ -21,13 +21,14 @@
 
 ## 💡 Quote of the Day:
 
-> *"Discipline is the strongest form of self love."* 
+> **"Discipline is the strongest form of self-love."**
+>
+> – Adele Aidin
 
-[![Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
 
-[![Tech Stack](https://skillicons.dev/icons?i=next,python,js,html,css)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,django,swagger,docker,cloudinary,digitalocean,js,html,css,pandas,numpy,sklearn)](https://skillicons.dev)
 
 </div>
 
