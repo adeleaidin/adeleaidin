@@ -1,8 +1,10 @@
 <div align="center">
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adeleaidin/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aidin.kyzy.adelya@gmail.com?subject=Hello%20Adele,%20From%20Github)
-  
+
 [![Hello World, I'm Adele!](assets/header.gif)](https://github.com/adeleaidin)
+
 </div>
 
 
@@ -46,8 +48,6 @@
 [![Miro](https://img.shields.io/badge/Miro-1A1A1A?style=for-the-badge&logo=miro&logoColor=white)](https://miro.com/)
 [![Canvas](https://img.shields.io/badge/Canvas-1DA1F2?style=for-the-badge&logo=canvas&logoColor=white)](https://canvas.instructure.com/)
 
-
----
 
 
 ## 🌟 About Me
