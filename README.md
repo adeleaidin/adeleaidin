@@ -2,7 +2,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adeleaidin/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aidin.kyzy.adelya@gmail.com?subject=Hello%20Adele,%20From%20Github)
   
-  [![Hello World, I'm Adele!](assets/header.gif)](https://github.com/adeleaidin)
+[![Hello World, I'm Adele!](assets/header.gif)](https://github.com/adeleaidin)
 </div>
 
 
